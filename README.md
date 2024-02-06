@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjqmqjrm)](https://github.com/fjqmqjrm/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjqmqjrm&layout=compact)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FDD8E8&height=150&section=footer" />
 
 <!--
