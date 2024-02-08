@@ -1,11 +1,11 @@
-## Hello, I'm Seoyoon👩‍💻
+<div align=center><h1>Hello, I'm Seoyoon👩‍💻</h1></div>
 <div align=center> 
   
 ![ezgif com-video-to-gif-converter](https://github.com/fjqmqjrm/fjqmqjrm/assets/126189239/db2af470-2168-490a-a09a-ce9990c4e18d)
 </div>
 
 
-<div align=center><h1>🔧STACKS🔧</h1></div>
+<div align=center><h2>🔧STACKS🔧</h2></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
