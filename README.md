@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FDD8E8&height=150&section=header" />
+![image](https://github.com/fjqmqjrm/fjqmqjrm/assets/126189239/f23a4afb-034b-4382-9267-33606589f73c)
 <div align=center><h1>🔧STACKS🔧</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
