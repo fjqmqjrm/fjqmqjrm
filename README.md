@@ -1,3 +1,4 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fjqmqjrm)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FDD8E8&height=150&section=header" />
 <div align=center><h1>🪛STACKS🪛</h1></div>
 <div align=center> 
@@ -15,7 +16,6 @@
   <br>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FDD8E8&height=150&section=footer" />
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fjqmqjrm)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **fjqmqjrm/fjqmqjrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
