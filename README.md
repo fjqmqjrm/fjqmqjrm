@@ -21,7 +21,7 @@
   <br>
 </div>
 <div align=center> 
-  
+<div align=center><h2></h2></div>
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fjqmqjrm)](https://github.com/anuraghazra/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjqmqjrm&layout=compact)
 </div>
