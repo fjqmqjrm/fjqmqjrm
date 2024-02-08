@@ -2,6 +2,7 @@
 <div align=center> 
   
 ![ezgif com-video-to-gif-converter](https://github.com/fjqmqjrm/fjqmqjrm/assets/126189239/db2af470-2168-490a-a09a-ce9990c4e18d)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fjqmqjrm)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
