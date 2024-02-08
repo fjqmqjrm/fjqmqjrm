@@ -3,7 +3,7 @@
 ![ezgif com-video-to-gif-converter](https://github.com/fjqmqjrm/fjqmqjrm/assets/126189239/db2af470-2168-490a-a09a-ce9990c4e18d)
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FDD8E8&height=150&section=header" />
+
 <div align=center><h1>🔧STACKS🔧</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -25,7 +25,7 @@
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fjqmqjrm)](https://github.com/anuraghazra/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjqmqjrm&layout=compact)
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FDD8E8&height=150&section=footer" />
+
 
 
 
