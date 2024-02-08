@@ -15,7 +15,7 @@
   <br>
 </div>
 <div align=center>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fjqmqjrm)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FDD8E8&height=150&section=footer" />
 
