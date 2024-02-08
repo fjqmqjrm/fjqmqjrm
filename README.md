@@ -1,6 +1,4 @@
-<div align=center>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fjqmqjrm)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<center>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fjqmqjrm)](https://github.com/anuraghazra/github-readme-stats)</center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FDD8E8&height=150&section=header" />
 <div align=center><h1>🪛STACKS🪛</h1></div>
 <div align=center> 
