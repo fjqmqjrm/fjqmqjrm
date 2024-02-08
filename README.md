@@ -14,11 +14,8 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-<div align=center>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fjqmqjrm)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FDD8E8&height=150&section=footer" />
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fjqmqjrm)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **fjqmqjrm/fjqmqjrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
