@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FDD8E8&height=150&section=header" />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fjqmqjrm)](https://github.com/anuraghazra/github-readme-stats)
 <div align=center><h1>🪛STACKS🪛</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
