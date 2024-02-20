@@ -21,8 +21,6 @@
   <br>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjqmqjrm&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=fjqmqjrm&show_icons=true">
 
 
 </div>
