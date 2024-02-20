@@ -1,5 +1,7 @@
 <div align=center><h1>Hello, I'm Seoyoon👩‍💻</h1></div>
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <div align=center> 
   
 ![ezgif com-video-to-gif-converter](https://github.com/fjqmqjrm/fjqmqjrm/assets/126189239/db2af470-2168-490a-a09a-ce9990c4e18d)
