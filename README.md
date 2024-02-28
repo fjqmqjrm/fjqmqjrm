@@ -1,7 +1,8 @@
 <div align=center><h1>Hello, I'm Seoyoon👩‍💻</h1></div>
 <div align=center> 
   
-![image](https://github.com/fjqmqjrm/fjqmqjrm/assets/126189239/d5c52620-d047-4db8-9f61-f3da57f8458d)
+![image](https://github.com/fjqmqjrm/fjqmqjrm/assets/126189239/39d8784a-3a20-41d4-8a0e-c296a934c463)
+
 
 </div>
 
