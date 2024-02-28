@@ -1,7 +1,8 @@
 <div align=center><h1>Hello, I'm Seoyoon👩‍💻</h1></div>
 <div align=center> 
   
-![ezgif com-video-to-gif-converter](https://github.com/fjqmqjrm/fjqmqjrm/assets/126189239/db2af470-2168-490a-a09a-ce9990c4e18d)
+![image](https://github.com/fjqmqjrm/fjqmqjrm/assets/126189239/d5c52620-d047-4db8-9f61-f3da57f8458d)
+
 </div>
 
 
