@@ -5,7 +5,7 @@
     <img src="https://github.com/fjqmqjrm/fjqmqjrm/assets/126189239/39d8784a-3a20-41d4-8a0e-c296a934c463" alt="Image" width="300" height="300">
     <div style="margin-left: 20px; text-align: left;">
        <h3>Major: Data Science</h3>
-       <h3>Minor: Software </h3>
+       <h3>Double Major: Software </h3>
     </div>
   </div>
 
