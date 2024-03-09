@@ -33,7 +33,7 @@
 </div>
 
 <div align=center><h2>Project</h2></div>
-<div align=center>
+
   
     ● 2023.07.07~2023.07.14 멋쟁이사자처럼12th HERETHON - '안'심하고 '도'착할 수 있는 안전귀가 서비스 ANDO 
   
