@@ -34,17 +34,19 @@
 
 <div align=center><h2>Project</h2></div>
 <div align=center>
-   2023.07.07~2023.07.14 멋쟁이사자처럼12th HERETHON - '안'심하고 '도'착할 수 있는 안전귀가 서비스 ANDO 
-  <hr>
-   2023.07.24~2023.08.19 멋쟁이사자처럼12th 중앙해커톤 - 디지털 취약 계층을 위한 택시 서비스 PICKXI
-  <hr>
-   2023.10.30~2023.11.11 멋쟁이사자처럼12th 미르톤 - 쓱 하고 보는 나의 ESG 기업 Mesg 
-  <hr>
-   2023.10.04~2023.12.03 슈멋사 프로젝트 - 대학생 스터디의 모든 것. Unilearn 
-  <hr>
-   2024.01.18~2024.02.21 서울여자대학교 프로그래밍 GURU2(Android) -  효과적인 알고리즘 학습을 위한 코딩 메이트 , codemate
+  
+    ● 2023.07.07~2023.07.14 멋쟁이사자처럼12th HERETHON - '안'심하고 '도'착할 수 있는 안전귀가 서비스 ANDO 
+  
+    ● 2023.07.24~2023.08.19 멋쟁이사자처럼12th 중앙해커톤 - 디지털 취약 계층을 위한 택시 서비스 PICKXI
+ 
+    ● 2023.10.30~2023.11.11 멋쟁이사자처럼12th 미르톤 - 쓱 하고 보는 나의 ESG 기업 Mesg 
+  
+    ● 2023.10.04~2023.12.03 슈멋사 프로젝트 - 대학생 스터디의 모든 것. Unilearn 
+  
+    ● 2024.01.18~2024.02.21 서울여자대학교 프로그래밍 GURU2(Android) -  효과적인 알고리즘 학습을 위한 코딩 메이트 , codemate
 
 </div>
+
 
 <!--
 **fjqmqjrm/fjqmqjrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
