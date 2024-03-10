@@ -45,6 +45,7 @@
     ● 2024.01.18~2024.02.21 서울여자대학교 프로그래밍 GURU2(Android) -  효과적인 알고리즘 학습을 위한 코딩 메이트 , codemate
 
 </div>
+
 ![image](https://github.com/fjqmqjrm/fjqmqjrm/assets/126189239/94c23ebe-fa03-4512-84b8-e91630ff6b7b)
 
 
