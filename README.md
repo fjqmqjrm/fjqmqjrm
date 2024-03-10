@@ -47,6 +47,14 @@
 
 </div>
 
+<div align=center><h2>Award</h2></div>
+
+  
+    ● 서울여자대학교 프로그래밍 GURU2 "codemate" - 우수상
+
+</div>
+
+
 
 <!--
 **fjqmqjrm/fjqmqjrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
