@@ -46,7 +46,6 @@
 
 </div>
 
-![image](https://github.com/fjqmqjrm/fjqmqjrm/assets/126189239/94c23ebe-fa03-4512-84b8-e91630ff6b7b)
 
 
 <div align=center><h2>Award</h2></div>
