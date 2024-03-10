@@ -1,4 +1,4 @@
-<div align=center><h1>Hello, I'm Seoyoon👩‍💻</h1></div>
+<div align=center><h1>Backend Developer Uni</h1></div>
 <div align=center> 
   
 <div style="display: flex; justify-content: center; align-items: center;">
