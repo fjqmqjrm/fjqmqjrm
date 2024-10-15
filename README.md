@@ -2,7 +2,7 @@
 <div align=center> 
   
 <div style="display: flex; justify-content: center; align-items: center;">
-    width="300" height="300">
+   
     <div style="margin-left: 20px; text-align: left;">
        <h3>☝️Major: Data Science  ✌️Double Major: Software</h3>
     </div>
