@@ -58,7 +58,6 @@
 <div align=center>
 
 
-![fjqmqjrm's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjqmqjrm&show_icons=true&theme=radical)
 
 </div>
 <!--
