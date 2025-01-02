@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
   <h1>Backend Developer Uniiii</h1>
 </div>
 
-<div align="center">
+<div align="left">
   <h2>🔧 STACKS 🔧</h2>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -18,11 +18,10 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<div align="center">
+<div align="left">
   <h2>📊 GitHub Stats 📊</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=fjqmqjrm&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjqmqjrm&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 <!--
