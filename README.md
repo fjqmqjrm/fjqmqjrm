@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>Backend Developer Uniiii</h1>
+  <h1>Uniiii</h1>
 </div>
 
 <div align="left">
