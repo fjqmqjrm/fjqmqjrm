@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome!&fontSize=50" />
-</div>
-
-<div align="center">
   <h2>🔥 Tech Stack 🔥</h2>
   <p>✨ Languages & Frameworks ✨</p>
   
@@ -29,6 +25,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjqmqjrm&theme=radical" alt="GitHub Streak">
 </div>
 
+---
+
+<div align="center">
+  <h2>🏆 Baekjoon Tier 🏆</h2>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fjqmqjrm" alt="Baekjoon Tier">
+</div>
 
 <!--
 **fjqmqjrm/fjqmqjrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
