@@ -1,12 +1,4 @@
 <div align="center">
-  <div align="center">
-  <h2>💡 About Me 💡</h2>
-  
-  <p>🚀 도전을 통한 성장을 즐깁니다.</p>
-  <p>📊 데이터 기반 분석을 통해 더 나은 의사결정을 내리는 능력을 키우고자 합니다.</p>
-  <p>🤝 속한 공동체의 가치 향상을 위해 힘씁니다.</p>
-
-</div>
   <h2>🔥 Tech Stack 🔥</h2>
   <p>✨ Languages & Frameworks ✨</p>
   
