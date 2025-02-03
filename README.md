@@ -29,7 +29,7 @@
 
 <div align="center">
   <h2>🏆 Baekjoon Tier 🏆</h2>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fjqmqjrm)](https://solved.ac/rlatngus1691/)
+     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fjqmqjrm" alt="Baekjoon Tier">
 </div>
 
 <!--
