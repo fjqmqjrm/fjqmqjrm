@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>박서윤</h2>
+  <h1>박서윤</h1>
 </div>
 <table>
   <tr>
