@@ -2,6 +2,7 @@
   <h1>박서윤</h1>
   <li>👩🏻‍💻 I am a developer who embraces challenges and grows without fear of failure.</li> 
   <li>👩🏻‍💻 I am interested in data analysis, backend development, machine learning, and deep learning.</p></li>
+  <li>🔥 I work towards improving myself every day, becoming better than I was yesterday.</li>
 </div>
 <table>
   <tr>
