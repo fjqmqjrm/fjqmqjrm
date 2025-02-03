@@ -18,6 +18,15 @@
 
 ---
 
+
+<div align="center">
+  <h2>🎓 Education 🎓</h2>
+  <p><strong>📌 Major:</strong> Data Science</p>
+  <p><strong>📌 Double Major:</strong> Software</p>
+</div>
+
+---
+
 <div align="center">
   <h2>📊 GitHub Stats 📊</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=fjqmqjrm&show_icons=true&theme=radical" alt="GitHub Stats">
