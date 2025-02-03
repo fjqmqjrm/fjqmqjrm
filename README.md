@@ -4,6 +4,7 @@
   <li>👩🏻‍💻 I am interested in data analysis, backend development, machine learning, and deep learning.</p></li>
   <li>🔥 I work towards improving myself every day, becoming better than I was yesterday.</li>
 </div>
+---
 <table>
   <tr>
     <td><h2>🔥 Tech Stack</h2></td>
