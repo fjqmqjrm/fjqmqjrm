@@ -6,8 +6,6 @@
   <p>📊 데이터 기반 분석을 통해 더 나은 의사결정을 내리는 능력을 키우고자 합니다.</p>
   <p>🤝 속한 공동체의 가치 향상을 위해 힘씁니다.</p>
   
-  <p>───</p>
-  
   <p>🚀 I enjoy growth through challenges.</p>
   <p>📊 I strive to develop the ability to make better decisions through data-driven analysis.</p>
   <p>🤝 I am committed to contributing to the value of the communities I belong to.</p>
