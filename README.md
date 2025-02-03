@@ -32,25 +32,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fjqmqjrm&theme=radical">
 </div>
 
----
 
-<div align="center">
-  <h2>✨ About Me ✨</h2>
-  <p>
-    🚀 Passionate about coding and problem-solving<br>
-    💡 Always exploring new technologies<br>
-    💬 Feel free to ask me about anything!<br>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h3>🌟 Connect with Me 🌟</h3>
-  <a href="https://github.com/fjqmqjrm">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
 <!--
 **fjqmqjrm/fjqmqjrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
