@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
----
-
 
 <div align="center">
   <h2>🎓 Education 🎓</h2>
