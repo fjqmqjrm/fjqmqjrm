@@ -1,7 +1,7 @@
 <div align="left">
   <h1>박서윤</h1>
-  <p>- 👩🏻‍💻 I am a developer who embraces challenges and grows without fear of failure.</p>
-  <p>- 👩🏻‍💻 I am interested in data analysis, backend development, machine learning, and deep learning.</p>
+  <li>👩🏻‍💻 I am a developer who embraces challenges and grows without fear of failure.</li> 
+  <li>👩🏻‍💻 I am interested in data analysis, backend development, machine learning, and deep learning.</p></li>
 </div>
 <table>
   <tr>
