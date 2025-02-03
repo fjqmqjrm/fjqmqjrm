@@ -1,7 +1,7 @@
-<div align="center">
+<div align="left">
   <h1>박서윤</h1>
-  <p>실패를 두려워하지 않고 도전하며 성장하는 개발자 박서윤입니다.</p>
-  <p>데이터 분석, 백엔드 개발, 머신러닝 및 딥러닝에 관심이 있습니다.</p>
+  <p>✅ 실패를 두려워하지 않고 도전하며 성장하는 개발자 박서윤입니다.</p>
+  <p>✅ 데이터 분석, 백엔드 개발, 머신러닝 및 딥러닝에 관심이 있습니다.</p>
   <p>I am interested in data analysis, backend development, machine learning, and deep learning.</p>
 </div>
 <table>
