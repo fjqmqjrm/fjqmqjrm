@@ -21,8 +21,6 @@
 <div align="center">
   <h2>📊 GitHub Stats 📊</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=fjqmqjrm&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fjqmqjrm&theme=radical" alt="GitHub Streak">
 </div>
 
 ---
