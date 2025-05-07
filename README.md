@@ -39,7 +39,7 @@
   <td><h2>🏆 Awards</h2></td>
   <td>
     <p><strong>🏆 2024 현대오토에버 배리어프리 앱 개발 콘테스트 대상</strong></p>
-    <p><strong>🎖️ 서울여자대학교 프로그래밍 구루2 안드로이드 우수상</strong></p>
+    <p><strong>🎖️ 프로그래밍 구루2 안드로이드 우수상</strong></p>
   </td>
   </tr>
   <tr>
